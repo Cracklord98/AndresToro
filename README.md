@@ -16,7 +16,7 @@ I'm an insatiable curious mind with an appetite for knowledge. My motto: "A bit 
 
 ### 🛠️ My Toolbox (constantly expanding):
 
-- 🌐 HTML, CSS, JS (Building the web, one <div> at a time!)
+- 🌐 HTML, CSS, JS (Building the web, one at a time!)
 - 🐙 Git & GitHub (Because sharing is caring, and commits are my diary)
 - 🎨 Figma (Designing experiences, not just interfaces)
 - 📊 Tableau & Power BI (Turning data into visual stories)
